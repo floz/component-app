@@ -1,0 +1,21 @@
+{
+  "name": "test_image",
+  "dependencies": {},
+  "paths": [],
+  "local": [],
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "style.css"
+  ],
+  "templates": [],
+  "images": [
+    "tata.png",
+    "toto.png",
+    "yo.png",
+    "img/tata.png",
+    "img/toto.png",
+    "img/yo.png"
+  ]
+}

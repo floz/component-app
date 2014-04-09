@@ -1,0 +1,9 @@
+{
+  "name": "scope",
+  "paths": [
+    "app"
+  ],
+  "local": [
+    "boot"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "bla",
+  "dependencies": {},
+  "paths": [],
+  "local": [],
+  "scripts": [
+    "titi.js",
+    "bo.js",
+    "boum.js",
+    "ha.js",
+    "test2.js",
+    "test3.js",
+    "toto.js",
+    "pathtest.js",
+    "pathtest2.js",
+    "img/pathtest2.js",
+    "aaa.js"
+  ],
+  "styles": [],
+  "templates": [
+    "template.html",
+    "temp.html"
+  ],
+  "images": [
+    "img/imgtest.png",
+    "img/tata.png",
+    "imgtoto.png",
+    "img/imgtoto.png",
+    "img/toto.jpg"
+  ]
+}

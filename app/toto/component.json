@@ -1,0 +1,16 @@
+{
+  "name": "toto",
+  "dependencies": {},
+  "paths": [],
+  "local": [],
+  "scripts": [
+    "hey.js",
+    "t.js",
+    "tests.js"
+  ],
+  "styles": [],
+  "templates": [],
+  "": [
+    "component.json"
+  ]
+}
