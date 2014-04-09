@@ -4,28 +4,19 @@
   "paths": [],
   "local": [],
   "scripts": [
-    "titi.js",
+    "aaa.js",
     "bo.js",
-    "boum.js",
-    "ha.js",
-    "test2.js",
-    "test3.js",
-    "toto.js",
-    "pathtest.js",
-    "pathtest2.js",
     "img/pathtest2.js",
-    "aaa.js"
+    "toto.js"
   ],
   "styles": [],
   "templates": [
-    "template.html",
-    "temp.html"
+    "template.html"
   ],
   "images": [
     "img/imgtest.png",
-    "img/tata.png",
-    "imgtoto.png",
     "img/imgtoto.png",
+    "img/tata.png",
     "img/toto.jpg"
   ]
 }
