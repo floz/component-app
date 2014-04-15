@@ -1,0 +1,19 @@
+{
+  "name": "titi",
+  "dependencies": {},
+  "paths": [
+    "../../common",
+    "../..",
+    ".."
+  ],
+  "local": [
+    "test",
+    "utils",
+    "gallery"
+  ],
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [],
+  "templates": []
+}

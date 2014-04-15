@@ -1,0 +1,17 @@
+{
+  "name": "tween",
+  "dependencies": {},
+  "paths": [
+    "..",
+    "../.."
+  ],
+  "local": [
+    "test",
+    "utils"
+  ],
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [],
+  "templates": []
+}

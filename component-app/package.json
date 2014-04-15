@@ -1,9 +1,0 @@
-{
-	"dependencies": {
-		"globule": "*",
-		"component": "^0.19.5",
-		"component-remove": "*",
-		"underscore": "*",
-		"fs-extra": "^0.8.1"
-	}
-}

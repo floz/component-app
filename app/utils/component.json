@@ -1,0 +1,14 @@
+{
+  "name": "utils",
+  "dependencies": {},
+  "paths": [],
+  "local": [],
+  "scripts": [
+    "index.js",
+    "toto.js"
+  ],
+  "styles": [
+    "index.css"
+  ],
+  "templates": []
+}

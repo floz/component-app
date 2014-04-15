@@ -1,0 +1,15 @@
+{
+  "name": "animation",
+  "dependencies": {},
+  "paths": [
+    "../.."
+  ],
+  "local": [
+    "utils"
+  ],
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [],
+  "templates": []
+}

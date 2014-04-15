@@ -1,0 +1,17 @@
+{
+  "name": "canvas",
+  "dependencies": {},
+  "paths": [
+    "../..",
+    "../../pages"
+  ],
+  "local": [
+    "utils",
+    "contact"
+  ],
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [],
+  "templates": []
+}

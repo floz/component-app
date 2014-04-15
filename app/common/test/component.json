@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "dependencies": {},
+  "paths": [
+    "../../pages",
+    "../.."
+  ],
+  "local": [
+    "contact",
+    "utils"
+  ],
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [],
+  "templates": []
+}

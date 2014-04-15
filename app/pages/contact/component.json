@@ -1,0 +1,19 @@
+{
+  "name": "contact",
+  "dependencies": {},
+  "paths": [
+    "../..",
+    "..",
+    "../../common"
+  ],
+  "local": [
+    "utils",
+    "toto",
+    "test"
+  ],
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [],
+  "templates": []
+}

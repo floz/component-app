@@ -1,0 +1,17 @@
+{
+  "name": "boot",
+  "dependencies": {},
+  "paths": [
+    "../pages",
+    "../common"
+  ],
+  "local": [
+    "toto",
+    "test"
+  ],
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [],
+  "templates": []
+}
