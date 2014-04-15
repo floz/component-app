@@ -3,13 +3,11 @@
   "dependencies": {},
   "paths": [
     "../../common",
-    "../..",
-    ".."
+    "../.."
   ],
   "local": [
     "test",
-    "utils",
-    "gallery"
+    "utils"
   ],
   "scripts": [
     "index.js"

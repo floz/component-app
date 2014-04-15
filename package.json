@@ -1,6 +1,7 @@
 {
 	"dependencies": {
 		"component-resolver": "*",
-		"component-build": "*"
+		"component-build": "*",
+		"component-builder": "*"
 	}
 }

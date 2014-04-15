@@ -10,7 +10,8 @@
     "utils"
   ],
   "scripts": [
-    "index.js"
+    "index.js",
+    "easing/index.js"
   ],
   "styles": [],
   "templates": []

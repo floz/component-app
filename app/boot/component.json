@@ -1,13 +1,16 @@
 {
   "name": "boot",
-  "dependencies": {},
+  "dependencies": {
+    "visionmedia/page.js": "*"
+  },
   "paths": [
     "../pages",
     "../common"
   ],
   "local": [
     "toto",
-    "test"
+    "test",
+    "tween"
   ],
   "scripts": [
     "index.js"

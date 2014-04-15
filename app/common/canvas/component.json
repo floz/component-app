@@ -10,7 +10,8 @@
     "contact"
   ],
   "scripts": [
-    "index.js"
+    "index.js",
+    "canvas.js"
   ],
   "styles": [],
   "templates": []
